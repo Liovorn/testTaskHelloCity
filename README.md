@@ -1,2 +1,2 @@
 # testTaskHelloCity
-https://travis-ci.org/Liovorn/testTaskHelloCity.svg?branch=master
+[badges]: https://travis-ci.org/Liovorn/testTaskHelloCity.svg?branch=master
