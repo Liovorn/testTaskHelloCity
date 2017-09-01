@@ -1,0 +1,72 @@
+2017-08-31 17:21:06 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c2e1f26: startup date [Thu Aug 31 17:21:06 EEST 2017]; root of context hierarchy
+2017-08-31 17:21:06 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [beans.xml]
+2017-08-31 17:21:07 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [greetingPrinter.xml]
+2017-08-31 17:21:07 INFO  HelloCity:24 - HelloCity printer created
+2017-08-31 17:21:07 INFO  HelloCity:27 - HelloCity were printed successfully
+2017-08-31 17:21:57 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c2e1f26: startup date [Thu Aug 31 17:21:57 EEST 2017]; root of context hierarchy
+2017-08-31 17:21:57 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [beans.xml]
+2017-08-31 17:21:57 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [helloUtilPrint.xml]
+2017-08-31 17:21:58 INFO  HelloCity:24 - HelloCity printer created
+2017-08-31 17:21:58 INFO  HelloCity:27 - HelloCity were printed successfully
+2017-08-31 17:23:25 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c2e1f26: startup date [Thu Aug 31 17:23:25 EEST 2017]; root of context hierarchy
+2017-08-31 17:23:25 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [beans.xml]
+2017-08-31 17:23:25 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [helloUtilPrint.xml]
+2017-08-31 17:23:26 INFO  Runner:24 - Runner printer created
+2017-08-31 17:23:26 INFO  Runner:27 - Runner were printed successfully
+2017-08-31 17:30:23 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c2e1f26: startup date [Thu Aug 31 17:30:23 EEST 2017]; root of context hierarchy
+2017-08-31 17:30:23 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [beans.xml]
+2017-08-31 17:30:24 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [helloUtilPrint.xml]
+2017-08-31 17:30:24 INFO  Runner:24 - Runner printer created
+2017-08-31 17:30:24 WARN  ResourceBundleMessageSource:294 - ResourceBundle [locale/customer/messages] not found for MessageSource: Can't find bundle for base name locale/customer/messages, locale en_US
+2017-08-31 17:30:24 FATAL Runner:31 - Cannot get messages
+2017-08-31 17:30:34 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c2e1f26: startup date [Thu Aug 31 17:30:34 EEST 2017]; root of context hierarchy
+2017-08-31 17:30:35 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [beans.xml]
+2017-08-31 17:30:35 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [helloUtilPrint.xml]
+2017-08-31 17:30:35 INFO  Runner:24 - Runner printer created
+2017-08-31 17:30:35 WARN  ResourceBundleMessageSource:294 - ResourceBundle [locale/customer/messages] not found for MessageSource: Can't find bundle for base name locale/customer/messages, locale en_US
+2017-08-31 17:30:35 FATAL Runner:31 - Cannot get messages
+2017-08-31 17:30:44 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c2e1f26: startup date [Thu Aug 31 17:30:44 EEST 2017]; root of context hierarchy
+2017-08-31 17:30:44 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [beans.xml]
+2017-08-31 17:30:44 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [helloUtilPrint.xml]
+2017-08-31 17:30:45 INFO  Runner:24 - Runner printer created
+2017-08-31 17:30:45 INFO  Runner:27 - Runner were printed successfully
+2017-08-31 17:31:17 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c2e1f26: startup date [Thu Aug 31 17:31:17 EEST 2017]; root of context hierarchy
+2017-08-31 17:31:17 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [beans.xml]
+2017-08-31 17:31:17 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [helloUtilPrint.xml]
+2017-08-31 17:31:17 INFO  Runner:24 - Runner printer created
+2017-08-31 17:31:17 WARN  ResourceBundleMessageSource:294 - ResourceBundle [locale/customer/messages] not found for MessageSource: Can't find bundle for base name locale/customer/messages, locale en_US
+2017-08-31 17:31:17 FATAL Runner:31 - Cannot get messages
+2017-08-31 18:30:12 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c2e1f26: startup date [Thu Aug 31 18:30:12 EEST 2017]; root of context hierarchy
+2017-08-31 18:30:12 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [beans.xml]
+2017-08-31 18:30:13 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [helloUtilPrint.xml]
+2017-08-31 18:30:13 INFO  Runner:24 - Runner printer created
+2017-08-31 18:30:13 INFO  Runner:27 - Runner were printed successfully
+2017-08-31 18:32:33 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c2e1f26: startup date [Thu Aug 31 18:32:33 EEST 2017]; root of context hierarchy
+2017-08-31 18:32:33 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [beans.xml]
+2017-08-31 18:32:34 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [helloUtilPrint.xml]
+2017-08-31 18:32:34 INFO  Runner:24 - Runner printer created
+2017-08-31 18:32:34 INFO  Runner:27 - Runner were printed successfully
+2017-08-31 18:38:07 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c2e1f26: startup date [Thu Aug 31 18:38:07 EEST 2017]; root of context hierarchy
+2017-08-31 18:38:07 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [beans.xml]
+2017-08-31 18:38:07 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [helloUtilPrint.xml]
+2017-08-31 18:38:07 INFO  Runner:22 - Runner printer created
+2017-08-31 18:38:07 INFO  Runner:25 - Runner were printed successfully
+2017-08-31 18:38:16 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1888ff2c: startup date [Thu Aug 31 18:38:15 EEST 2017]; root of context hierarchy
+2017-08-31 18:38:16 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [beans.xml]
+2017-08-31 18:38:16 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [helloUtilPrint.xml]
+2017-08-31 18:39:56 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@17baae6e: startup date [Thu Aug 31 18:39:56 EEST 2017]; root of context hierarchy
+2017-08-31 18:39:57 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [beans.xml]
+2017-08-31 18:39:57 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [helloUtilPrint.xml]
+2017-08-31 18:43:58 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c2e1f26: startup date [Thu Aug 31 18:43:58 EEST 2017]; root of context hierarchy
+2017-08-31 18:43:58 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [beans.xml]
+2017-08-31 18:43:58 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [helloUtilPrint.xml]
+2017-08-31 18:43:59 INFO  Runner:22 - Runner printer created
+2017-08-31 18:43:59 INFO  Runner:25 - Runner were printed successfully
+2017-08-31 18:53:16 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@256216b3: startup date [Thu Aug 31 18:53:16 EEST 2017]; root of context hierarchy
+2017-08-31 18:53:16 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [beans.xml]
+2017-08-31 18:53:16 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [helloUtilPrint.xml]
+2017-08-31 18:53:39 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c2e1f26: startup date [Thu Aug 31 18:53:39 EEST 2017]; root of context hierarchy
+2017-08-31 18:53:40 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [beans.xml]
+2017-08-31 18:53:40 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [helloUtilPrint.xml]
+2017-08-31 18:53:40 INFO  Runner:22 - Runner printer created
+2017-08-31 18:53:40 INFO  Runner:25 - Runner printed Ok
