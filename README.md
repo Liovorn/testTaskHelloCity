@@ -1,2 +1,2 @@
 # testTaskHelloCity
-[![travis build](https://travis-ci.org/Liovorn/testTaskHelloCity.svg?branch=master)](https://travis-ci.org/Liovorn/testTaskHelloCity.svg?branch=master)
+[![travis build](https://img.shields.io/travis/USER/REPO.svg)](https://travis-ci.org/Liovorn/testTaskHelloCity.svg?branch=master)
