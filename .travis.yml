@@ -1,8 +1,6 @@
 language: java
-
 before_install:
   - brew update # see note below
   - brew install beanstalk
-
 mvn test -B
 mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
